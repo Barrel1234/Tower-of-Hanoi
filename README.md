@@ -7,7 +7,7 @@ Tower of Hanoi Console Game made in Dev C++ which is the implementation of the w
 
 2.Unzip It.
 
-3.Run Tower of Hanoi.cpp
+3.Run Tower of Hanoi.cpp in Dev C++.
 
 4.Enjoy.
 
